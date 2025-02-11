@@ -1,5 +1,4 @@
 echo "Installing resolvconf"
-apt upgrade 
 apt install resolvconf
 
 echo "Starting resolvconf"
